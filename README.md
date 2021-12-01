@@ -1,2 +1,2 @@
 # DOM-Sort-Photo-Gallery
-Basic DOM Photo Shuffling Task
+Just a basic photo [sort/show/hide] task.
